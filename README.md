@@ -1,6 +1,10 @@
 Action Policy Authorization Plugin
 =============================
 
+> This fork is only updated for security issues and bugs with its use in [Puppet Enterprise](https://puppet.com/products/puppet-enterprise).
+> Please file bugs with [PE support](https://support.puppet.com).
+> For security issues, see [Puppet's product security policy](https://puppet.com/docs/vulnerability-submission-process).
+
 This is a plugin that provides fine grained action level authorization for agents. Any MCollective agent plugins based on SimpleRPC can be restricted with authorization plugins like this one.
 
 Installation
